@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elPytel
-- 👀 I’m interested in girls.
+- 👀 I’m interested in Linux.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on some open source project.
 - 📫 How to reach me ...
